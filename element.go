@@ -58,8 +58,8 @@ const (
 	SeekFlagSnapNearest               SeekFlags = C.GST_SEEK_FLAG_SNAP_NEAREST
 	SeekFlagTrickmodeKeyUnits         SeekFlags = C.GST_SEEK_FLAG_TRICKMODE_KEY_UNITS
 	SeekFlagTrickmodeNoAudio          SeekFlags = C.GST_SEEK_FLAG_TRICKMODE_NO_AUDIO
-#	SeekFlagTrickmodeForwardPredicted SeekFlags = C.GST_SEEK_FLAG_TRICKMODE_FORWARD_PREDICTED
-#	SeekFlagInstantRateChange         SeekFlags = C.GST_SEEK_FLAG_INSTANT_RATE_CHANGE
+//	SeekFlagTrickmodeForwardPredicted SeekFlags = C.GST_SEEK_FLAG_TRICKMODE_FORWARD_PREDICTED
+//	SeekFlagInstantRateChange         SeekFlags = C.GST_SEEK_FLAG_INSTANT_RATE_CHANGE
 	
 )
 

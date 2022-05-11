@@ -1,3 +1,3 @@
-module github.com/notedit/gst
+module github.com/jackysc/gst
 
 go 1.12
